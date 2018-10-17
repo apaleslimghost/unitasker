@@ -1,0 +1,20 @@
+{
+  "name": "unitasker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "menubar": "^5.2.3",
+    "micro": "^9.3.3",
+    "micro-urlencoded": "^0.1.0"
+  },
+  "devDependencies": {
+    "electron": "^3.0.4"
+  }
+}
